@@ -5,7 +5,7 @@
 - Tên nhóm:
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+- URL repo, nhánh nộp, commit chốt: https://github.com/Shirou191/K5-Day8-Alo-FromWorkflowstoAgents, `main`, d7a5ede
 
 ## Thành viên
 
@@ -25,7 +25,7 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| | | | |
+| Shirou191 | Toàn bộ: 3 shape, test, benchmark, báo cáo | d7a5ede (feat: implement workflow, single, orchestrator shapes) | src/tests/test_team_shapes.py (27 test) |
 
 ## Cá nhân
 
