@@ -4,8 +4,8 @@ Tối đa 5 trang ngoài phụ lục. Số liệu lấy từ file trong `src/rep
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm: _(điền)_
-- Thành viên: xem `TEAM.md`
+- Tên nhóm: Alo
+- Thành viên: 1 người, Phan Đào Minh Quân (2A202603971). Nhóm một người vì không tìm được đồng đội; xem `TEAM.md`
 - Commit chốt (trùng `report/team/decision_adr.md`): d7a5ede
 
 ## 2. Mục tiêu và cách tiếp cận
@@ -16,7 +16,7 @@ Bài toán: xử lý claim hoàn phí vận chuyển của LogiX-VN bằng bốn
 2. Tiền chỉ do `compute_compensation` tính; chỉ code của shape gọi `durability.issue_refund`, luôn với **quote đầy đủ**, truyền `crash_at` và không bắt `InjectedCrash`.
 3. Trace ghi ở mọi nhánh return, chỉ chứa field allowlist.
 
-Thứ tự làm: workflow trước (làm khung chuẩn cho trace và cách map kết quả host → `status`), sau đó single và orchestrator dùng lại đúng khung đó, chỉ thay phần thu thập dữ kiện. Cuối cùng chạy crash suite, benchmark, ablation và viết báo cáo.
+Vì làm một mình nên không chia vai; thứ tự làm: workflow trước (làm khung chuẩn cho trace và cách map kết quả host → `status`), sau đó single và orchestrator dùng lại đúng khung đó, chỉ thay phần thu thập dữ kiện. Cuối cùng chạy crash suite, benchmark, ablation và viết báo cáo.
 
 ## 3. Giải pháp
 
@@ -57,7 +57,7 @@ Quyết định kiến trúc và lý do: xem `report/team/decision_adr.md` (ch�
 
 ## 6. Tổng hợp đóng góp
 
-Chi tiết đóng góp của từng thành viên nằm trong `TEAM.md` (bảng đóng góp) và báo cáo cá nhân `report/team/MSSV_HoTen.md`.
+Phần việc (ba shape, test, crash suite, benchmark, ADR, research card, báo cáo) do Phan Đào Minh Quân thực hiện (xem báo cáo cá nhân). Chi tiết: `TEAM.md` và `report/team/2A202603971_PhanDaoMinhQuan.md`.
 
 ## 7. Hạn chế và hướng cải thiện
 
