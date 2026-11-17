@@ -5,7 +5,7 @@
 - Tên nhóm: Alo
 - Số thành viên: 1 (làm một mình do không tìm được đồng đội)
 - Lớp: L3B
-- Repo nhóm: `K5-L3A-DAY08-Alo-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
+- Repo nhóm: `K5-L3B-DAY08-Alo-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
 - URL repo, nhánh nộp, commit chốt: https://github.com/Shirou191/K5-Day8-Alo-FromWorkflowstoAgents, `main`, d7a5ede
 
 ## Thành viên
